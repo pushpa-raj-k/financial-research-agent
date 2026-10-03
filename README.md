@@ -170,7 +170,7 @@ financial-research-agent/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/financial-research-agent.git
+git clone https://github.com/pushpa-raj-k/financial-research-agent.git
 cd financial-research-agent
 ```
 
